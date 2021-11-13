@@ -1,0 +1,19 @@
+{
+  "name": "estadisticas-deportivas",
+  "version": "1.0.0",
+  "description": "## Descripción",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipetus/estadisticas-deportivas.git"
+  },
+  "author": "YA-TP2-D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pipetus/estadisticas-deportivas/issues"
+  },
+  "homepage": "https://github.com/pipetus/estadisticas-deportivas#readme"
+}
